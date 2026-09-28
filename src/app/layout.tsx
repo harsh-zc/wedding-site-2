@@ -21,9 +21,9 @@ const sans = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Meera & Arjun — We're Getting Married",
+  title: "Kavya & Rohan — We're Getting Married",
   description:
-    "Join us as we celebrate our wedding. December 12, 2026 · Jaipur, Rajasthan.",
+    "Join us as we celebrate our wedding. February 08, 2027 · Manipur, India.",
 };
 
 export default function RootLayout({
