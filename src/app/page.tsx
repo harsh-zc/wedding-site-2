@@ -12,11 +12,8 @@ const STORY_IMAGE =
 export default function Home() {
   return (
     <main>
-      <Script
-        src="https://chatwidgetjs.vercel.app/widget.js"
-        data-widget-id="01M3HVW5G1AKGRMEWRHFE5CCMF"
-        strategy="afterInteractive"
-      />
+     <!-- Desk chat widget · Prod Chatbot -->
+<script src="https://dz6ejslmb2lbc.cloudfront.net/zealdesk/chatbot/widget.js" data-widget-id="01M3TXVMGHS3WMN2SG8VQDKCDY" data-color="#C2410C" data-launcher-icon="headset" data-position="bottom-right" data-tags="prod-test" async></script>
 
       {/* Hero */}
       <section className="relative flex min-h-[100svh] items-end overflow-hidden">
